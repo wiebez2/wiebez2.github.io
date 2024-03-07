@@ -35,7 +35,7 @@ Upon signing into GitHub, you will be on GitHubs's landing page where you can cr
 
 ### 2. Cloning a Repository
 
-1. In your command line, run the following:
+ - In your command line, run the following:
     ```
     git clone https://github.com/[your username]/[your username].github.io
     ```
