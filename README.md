@@ -7,10 +7,10 @@ You will learn the steps needed to host your own site using GitHub pages and Mar
 ## Summary
 - [Prerequisites](#prerequisites)
 - [Instructions](#instructions)
-    - [Creating a Repository](#1-making-a-repository)
+    - [Make a Repository](#1-make-a-repository)
     - [Cloning a Repository](#2-cloning-a-repository)
-    - [Adding a Resume to a Repository](#3-adding-to-a-repository)
-    - [Launching the Website](#4-launching-your-website)
+    - [Adding to a Repository](#3-adding-to-a-repository)
+    - [Launching your Website](#4-launching-your-website)
 - [More Resources](#more-resources)
 - [Authors and Acknowledgements](#acknowledgments)
 - [FAQ](#faq)
