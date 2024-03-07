@@ -64,7 +64,7 @@ Markdown shines among other markup languages as it is widely embraced for its si
 
 
 ### 4. Launching your Website
-1. In a browser, go to `https://[your username].github.io`.
+ - In a browser, go to `https://[your username].github.io`.
 
 Etter suggests that making a website like the one described in this README is an easy way to share lots of different kinds of information. Static websites, like this one, are quick and simple to set up because they don't need a lot of extra stuff and don't rely heavily on other technologies. They provide a basic setup that's good enough to make a website look nice. Plus, they make it easy for people to access documents. Instead of having to send PDFs through email or by mail, static websites let anyone, anywhere, get to the documents whenever they want.
 
