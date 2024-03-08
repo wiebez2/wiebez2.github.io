@@ -90,7 +90,7 @@ Some extra reading which go in detail on relevant topics:
 ## Acknowledgments 
  - Thank you for the peer editing done by the  members of Stuart Little; Shaun Cheriyan, and Aswin Manoj.
  - Instruction set takes inspiration from Andrew Etter's _Modern Technical Writing: An Introduction to Software Documentation_.
- - This repository uses the [minimalist theme](https://github.com/pages-themes/minimal).
+ - This project uses the [minimalist theme](https://github.com/pages-themes/minimal).
    
 ## FAQ
 
