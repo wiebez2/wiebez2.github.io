@@ -15,7 +15,7 @@
 |        Languages        |        Systems       |
 |:-----------------------:|:--------------------:|
 | JavaScript / Java       |     Git / R Studio   |
-|        Python / R       |      Linux / VS      |
+|        Python / R       |    Linux / VS Code   |
 |       C / C++ / SQL     |   MSExcel / MSAccess |
 
 ---
