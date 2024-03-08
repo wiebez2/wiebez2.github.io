@@ -35,7 +35,7 @@ Upon signing into GitHub, you will be on GitHubs's landing page where you can cr
 
 ### 2. Cloning a Repository
 
- - In your command line, run the following:
+ - Open the terminal app on your computer write in the following command, run the following:
     ```
     git clone https://github.com/[your username]/[your username].github.io
     ```
@@ -49,16 +49,16 @@ Git is used because of its robust capabilities in managing file versions (versio
 1. Create an `index.md` file in the **local** repository.
     - This is really just the contents of your resume but under the name *index*, and of Markdown format.
 
-2. Push `index.md` from your local repository to your online repository.
+2. "Push" `index.md` from your local repository to your online repository.
 
-    - In the command line, run the following:
+    - In the same app, run the following line-by-line, separately:
     ```
     git add [address of index.md]
     git commit -m "Added index.md"
     git push -u origin master
     ```
 
-Again, it is imperative that your resume be named `index.md`. Your hosted site won't run without a file named "index," of Markdown format which has the contents that you want displayed. GitHub automatically looks at the contents of your repository and looks for files with specific names of specific type in order to do things with them.
+Again, it is imperative that your resume be named `index.md`. Your GitHub site won't run without a file named "index," of Markdown format which has the contents that you want displayed. GitHub automatically looks at the contents of your repository and looks for files with specific names of specific type in order to do things with them.
  - README.md is automatically displayed in the repository's home screen.
  - _config.yml is used to add cosmetic functionality to your website.
  - index.md is displayed in the front page of your website.
@@ -106,5 +106,9 @@ _Why am I getting a 404 error when trying to host a website on GitHub?_
  - 404 errors when hosting a website on GitHub *usually* have to do with incorrect settings of a file or directory.
    - **Repository Name**: Double check that the repository is named correctly. For GitHub Pages, the repository must be named in the format `<username>.github.io` where `<username>` is your GitHub username.
    - **Bad File/Directory Structure**: GitHub Pages expects certain files to be present in your repository to serve your website correctly. Make sure you have an index.html file in the root directory of your repository.
-   - **Incorrect Settings Configuration**: Make sure that your repository settings are set to ensure that GitHub Pages is enabled and configured correctly. You can find this in the settings tab of your repository.
+   - **Incorrect Settings Configuration**: Make sure that your repository settings are set to ensure that GitHub Pages is enabled and configured correctly.
+     - Underneath your repository name in the repository main page, check to make sure that all work you do and files you add are in _main_ "branch."
+     - In `settings->General` at the top of the page, it should say your repository name. This should be `[your username].github.io`.
+     - In `settings->General` at the bottom of the page, under the _Danger Zone_ heading, click the button associated with "Change repository visibility" to make sure that your repository is set to public.
+       
 
