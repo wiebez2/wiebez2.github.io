@@ -38,7 +38,7 @@
 
 ### Cashier, _The Real Canadian Superstore_
 ##### Part Time: November 2016 - November 2017
-- • Developed skills pertaining to handling cash, customer service, crisis management, working quickly and efficiently.
+- Developed skills pertaining to handling cash, customer service, crisis management, working quickly and efficiently.
 
 
 ---
