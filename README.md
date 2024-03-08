@@ -21,7 +21,7 @@ You will learn the steps needed to host your own site using GitHub pages and Mar
  - Access to command line.
 
  ## Instructions
-These instructions show you the process to hosting you own site on GitHub. GitHub's own instruction list can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+These instructions show you the process to host your own site on GitHub. GitHub's own instruction list can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
 
 ### 1. Make a Repository
 
@@ -58,9 +58,13 @@ Git is used because of its robust capabilities in managing file versions (versio
     git push -u origin master
     ```
 
-Again, it is imperative that your resume be named `index.md`. Your hosted site won't run without a file named "index," of Markdown format which has the contents that you want displayed.
+Again, it is imperative that your resume be named `index.md`. Your hosted site won't run without a file named "index," of Markdown format which has the contents that you want displayed. GitHub automatically looks at the contents of your repository and looks for files with specific names of specific type in order to do things with them. 
+    - README.md is automatically displayed in the repository's home screen.
+    - _config.yml is used to add cosmetic functionality to your website.
+    - index.md is displayed in the front page of your website.
+    
 
-Markdown shines among other markup languages as it is widely embraced for its simplicity, readability, and cost-free nature. Due to these qualities, Etter notes his preference of Markdown over XML. Because of their lightweight characteristics, Markdown and similar markup languages are popular for publishing content to webpages. With respect to this guide, Static-site generators and Markdown files facilitate creation of a resume-hosting website quite easily.
+Markdown shines among other markup languages as it is widely embraced for its simplicity, readability, and cost-free nature. Due to these qualities, Etter notes his preference of Markdown over strictly using XML. Because of their lightweight characteristics, Markdown and similar markup languages are popular for publishing content to webpages. With respect to this guide, Static-site generators and Markdown files facilitate creation of a resume-hosting website quite easily.
 
 
 ### 4. Launching your Website
