@@ -72,6 +72,9 @@ Markdown shines among other markup languages as it is widely embraced for its si
 
 Etter suggests that making a website like the one described in this README is an easy way to share lots of different kinds of information. Static websites, like this one, are quick and simple to set up because they don't need a lot of extra stuff and don't rely heavily on other technologies. They provide a basic setup that's good enough to make a website look nice. Plus, they make it easy for people to access documents. Instead of having to send PDFs through email or by mail, static websites let anyone, anywhere, get to the documents whenever they want.
 
+![resumeGIF](https://github.com/wiebez2/wiebez2.github.io/assets/162388629/95a5e4b7-de1b-4581-91ae-3cc867efe683)
+
+
 ## More Resources
 Some extra reading which go in detail on relevant topics:
 
